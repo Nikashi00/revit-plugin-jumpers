@@ -1,0 +1,55 @@
+C:\Users\murat\Desktop\Revit CS\Проекты\Jumpers\Jumpers\bin\x64\Debug\Jumpers.dll
+C:\Users\murat\Desktop\Revit CS\Проекты\Jumpers\Jumpers\bin\x64\Debug\Jumpers.pdb
+C:\Users\murat\Desktop\Revit CS\Проекты\Jumpers\Jumpers\obj\x64\Debug\Jumpers.csproj.AssemblyReference.cache
+C:\Users\murat\Desktop\Revit CS\Проекты\Jumpers\Jumpers\obj\x64\Debug\UserWindowJumpers.g.cs
+C:\Users\murat\Desktop\Revit CS\Проекты\Jumpers\Jumpers\obj\x64\Debug\Jumpers_MarkupCompile.cache
+C:\Users\murat\Desktop\Revit CS\Проекты\Jumpers\Jumpers\obj\x64\Debug\Jumpers_MarkupCompile.lref
+C:\Users\murat\Desktop\Revit CS\Проекты\Jumpers\Jumpers\obj\x64\Debug\UserWindowJumpers.baml
+C:\Users\murat\Desktop\Revit CS\Проекты\Jumpers\Jumpers\obj\x64\Debug\Jumpers.g.resources
+C:\Users\murat\Desktop\Revit CS\Проекты\Jumpers\Jumpers\obj\x64\Debug\Jumpers.csproj.CoreCompileInputs.cache
+C:\Users\murat\Desktop\Revit CS\Проекты\Jumpers\Jumpers\obj\x64\Debug\Jumpers.dll
+C:\Users\murat\Desktop\Revit CS\Проекты\Jumpers\Jumpers\obj\x64\Debug\Jumpers.pdb
+E:\10 семестр\Диплом программирование\Наш диплом\Jumpers\Jumpers\obj\x64\Debug\Jumpers.csproj.AssemblyReference.cache
+E:\10 семестр\Диплом программирование\Наш диплом\Jumpers\Jumpers\obj\x64\Debug\UserWindowJumpers.g.cs
+E:\10 семестр\Диплом программирование\Наш диплом\Jumpers\Jumpers\obj\x64\Debug\Jumpers_MarkupCompile.cache
+E:\10 семестр\Диплом программирование\Наш диплом\Jumpers\Jumpers\obj\x64\Debug\Jumpers_MarkupCompile.lref
+E:\10 семестр\Диплом программирование\Наш диплом\Jumpers\Jumpers\obj\x64\Debug\Jumpers.dll
+E:\10 семестр\Диплом программирование\Наш диплом\Jumpers\Jumpers\obj\x64\Debug\Jumpers.pdb
+E:\10 семестр\Диплом программирование\Наш диплом\Jumpers\Jumpers\bin\x64\Debug\Jumpers.dll
+E:\10 семестр\Диплом программирование\Наш диплом\Jumpers\Jumpers\bin\x64\Debug\Jumpers.pdb
+E:\10 семестр\Диплом программирование\Наш диплом\Jumpers\Jumpers\obj\x64\Debug\UserWindowJumpers.baml
+E:\10 семестр\Диплом программирование\Наш диплом\Jumpers\Jumpers\obj\x64\Debug\Jumpers.g.resources
+E:\10 семестр\Диплом программирование\Наш диплом\Jumpers\Jumpers\obj\x64\Debug\Jumpers.csproj.CoreCompileInputs.cache
+C:\Users\murat\Desktop\Revit CS\Проекты\от Вероники\Наш диплом\Jumpers\Jumpers\bin\x64\Debug\Jumpers.dll
+C:\Users\murat\Desktop\Revit CS\Проекты\от Вероники\Наш диплом\Jumpers\Jumpers\bin\x64\Debug\Jumpers.pdb
+C:\Users\murat\Desktop\Revit CS\Проекты\от Вероники\Наш диплом\Jumpers\Jumpers\obj\x64\Debug\Jumpers.csproj.AssemblyReference.cache
+C:\Users\murat\Desktop\Revit CS\Проекты\от Вероники\Наш диплом\Jumpers\Jumpers\obj\x64\Debug\UserWindowJumpers.g.cs
+C:\Users\murat\Desktop\Revit CS\Проекты\от Вероники\Наш диплом\Jumpers\Jumpers\obj\x64\Debug\Jumpers_MarkupCompile.cache
+C:\Users\murat\Desktop\Revit CS\Проекты\от Вероники\Наш диплом\Jumpers\Jumpers\obj\x64\Debug\Jumpers_MarkupCompile.lref
+C:\Users\murat\Desktop\Revit CS\Проекты\от Вероники\Наш диплом\Jumpers\Jumpers\obj\x64\Debug\UserWindowJumpers.baml
+C:\Users\murat\Desktop\Revit CS\Проекты\от Вероники\Наш диплом\Jumpers\Jumpers\obj\x64\Debug\Jumpers.g.resources
+C:\Users\murat\Desktop\Revit CS\Проекты\от Вероники\Наш диплом\Jumpers\Jumpers\obj\x64\Debug\Jumpers.csproj.CoreCompileInputs.cache
+C:\Users\murat\Desktop\Revit CS\Проекты\от Вероники\Наш диплом\Jumpers\Jumpers\obj\x64\Debug\Jumpers.dll
+C:\Users\murat\Desktop\Revit CS\Проекты\от Вероники\Наш диплом\Jumpers\Jumpers\obj\x64\Debug\Jumpers.pdb
+C:\Users\murat\Desktop\Revit CS\Проекты\от Вероники\Наш диплом с выбором самому 2\Jumpers\Jumpers\bin\x64\Debug\Jumpers.dll
+C:\Users\murat\Desktop\Revit CS\Проекты\от Вероники\Наш диплом с выбором самому 2\Jumpers\Jumpers\bin\x64\Debug\Jumpers.pdb
+C:\Users\murat\Desktop\Revit CS\Проекты\от Вероники\Наш диплом с выбором самому 2\Jumpers\Jumpers\obj\x64\Debug\Jumpers.csproj.AssemblyReference.cache
+C:\Users\murat\Desktop\Revit CS\Проекты\от Вероники\Наш диплом с выбором самому 2\Jumpers\Jumpers\obj\x64\Debug\UserWindowJumpers.g.cs
+C:\Users\murat\Desktop\Revit CS\Проекты\от Вероники\Наш диплом с выбором самому 2\Jumpers\Jumpers\obj\x64\Debug\Jumpers_MarkupCompile.cache
+C:\Users\murat\Desktop\Revit CS\Проекты\от Вероники\Наш диплом с выбором самому 2\Jumpers\Jumpers\obj\x64\Debug\Jumpers_MarkupCompile.lref
+C:\Users\murat\Desktop\Revit CS\Проекты\от Вероники\Наш диплом с выбором самому 2\Jumpers\Jumpers\obj\x64\Debug\UserWindowJumpers.baml
+C:\Users\murat\Desktop\Revit CS\Проекты\от Вероники\Наш диплом с выбором самому 2\Jumpers\Jumpers\obj\x64\Debug\Jumpers.g.resources
+C:\Users\murat\Desktop\Revit CS\Проекты\от Вероники\Наш диплом с выбором самому 2\Jumpers\Jumpers\obj\x64\Debug\Jumpers.csproj.CoreCompileInputs.cache
+C:\Users\murat\Desktop\Revit CS\Проекты\от Вероники\Наш диплом с выбором самому 2\Jumpers\Jumpers\obj\x64\Debug\Jumpers.dll
+C:\Users\murat\Desktop\Revit CS\Проекты\от Вероники\Наш диплом с выбором самому 2\Jumpers\Jumpers\obj\x64\Debug\Jumpers.pdb
+C:\Users\murat\Desktop\Revit CS\Проекты\Размещение перемычек\Jumpers\Jumpers\bin\x64\Debug\Jumpers.dll
+C:\Users\murat\Desktop\Revit CS\Проекты\Размещение перемычек\Jumpers\Jumpers\bin\x64\Debug\Jumpers.pdb
+C:\Users\murat\Desktop\Revit CS\Проекты\Размещение перемычек\Jumpers\Jumpers\obj\x64\Debug\Jumpers.csproj.AssemblyReference.cache
+C:\Users\murat\Desktop\Revit CS\Проекты\Размещение перемычек\Jumpers\Jumpers\obj\x64\Debug\UserWindowJumpers.g.cs
+C:\Users\murat\Desktop\Revit CS\Проекты\Размещение перемычек\Jumpers\Jumpers\obj\x64\Debug\Jumpers_MarkupCompile.cache
+C:\Users\murat\Desktop\Revit CS\Проекты\Размещение перемычек\Jumpers\Jumpers\obj\x64\Debug\Jumpers_MarkupCompile.lref
+C:\Users\murat\Desktop\Revit CS\Проекты\Размещение перемычек\Jumpers\Jumpers\obj\x64\Debug\UserWindowJumpers.baml
+C:\Users\murat\Desktop\Revit CS\Проекты\Размещение перемычек\Jumpers\Jumpers\obj\x64\Debug\Jumpers.g.resources
+C:\Users\murat\Desktop\Revit CS\Проекты\Размещение перемычек\Jumpers\Jumpers\obj\x64\Debug\Jumpers.csproj.CoreCompileInputs.cache
+C:\Users\murat\Desktop\Revit CS\Проекты\Размещение перемычек\Jumpers\Jumpers\obj\x64\Debug\Jumpers.dll
+C:\Users\murat\Desktop\Revit CS\Проекты\Размещение перемычек\Jumpers\Jumpers\obj\x64\Debug\Jumpers.pdb

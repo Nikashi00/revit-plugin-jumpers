@@ -1,0 +1,11 @@
+C:\Users\murat\Desktop\Revit CS\Проекты\Jumpers\Jumpers\obj\Debug\Jumpers.csproj.AssemblyReference.cache
+C:\Users\murat\Desktop\Revit CS\Проекты\Jumpers\Jumpers\obj\Debug\Jumpers.csproj.CoreCompileInputs.cache
+C:\Users\murat\Desktop\Revit CS\Проекты\Jumpers\Jumpers\bin\Debug\Jumpers.dll
+C:\Users\murat\Desktop\Revit CS\Проекты\Jumpers\Jumpers\bin\Debug\Jumpers.pdb
+C:\Users\murat\Desktop\Revit CS\Проекты\Jumpers\Jumpers\obj\Debug\Jumpers.dll
+C:\Users\murat\Desktop\Revit CS\Проекты\Jumpers\Jumpers\obj\Debug\Jumpers.pdb
+C:\Users\murat\Desktop\Revit CS\Проекты\Jumpers\Jumpers\obj\Debug\UserWindowJumpers.g.cs
+C:\Users\murat\Desktop\Revit CS\Проекты\Jumpers\Jumpers\obj\Debug\Jumpers_MarkupCompile.cache
+C:\Users\murat\Desktop\Revit CS\Проекты\Jumpers\Jumpers\obj\Debug\Jumpers_MarkupCompile.lref
+C:\Users\murat\Desktop\Revit CS\Проекты\Jumpers\Jumpers\obj\Debug\UserWindowJumpers.baml
+C:\Users\murat\Desktop\Revit CS\Проекты\Jumpers\Jumpers\obj\Debug\Jumpers.g.resources
