@@ -1,6 +1,9 @@
 # revit-plugin-jumpers
 ## Описание
 This repository contains a plugin for Autodesk Revit 2021 in C#. This plugin implements the automatic placement of pre-created families of jumpers in the project above window and door openings. The plugin allows you to place according to the conditions for choosing window or door openings and the types of walls in which they are placed.
+Данный репозиторий содержит плагин для Autodesk Revit 2021 на C#. Этот плагин реализует автоматическое размещение в проекте заранее созданных семейств перемычек над оконными и дверными проемами. Плагин позволяет размещать по условиям выбора перемычки над оконными или дверными проемами с учетом типов стен, в которых они размещаются.
+
+
 ## Окно ввода данных
 ![Рисунок1](https://github.com/Nikashi00/revit-plugin-jumpers/assets/147995583/b24f630b-a214-4062-9317-15e99a18aedc)
 ## Функционал:
